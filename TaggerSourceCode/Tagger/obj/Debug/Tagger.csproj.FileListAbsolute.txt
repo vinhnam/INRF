@@ -1,0 +1,18 @@
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\obj\Debug\Tagger.csprojResolveAssemblyReference.cache
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\bin\Debug\Tagger.exe.config
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\bin\Debug\Tagger.exe
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\bin\Debug\Tagger.pdb
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\bin\Debug\BongTagger.dll
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\bin\Debug\BongTagger.pdb
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\obj\Debug\Tagger.exe
+c:\users\tek.maihamy\documents\visual studio 2013\Projects\Tagger\Tagger\obj\Debug\Tagger.pdb
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\bin\Debug\Tagger.exe.config
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\obj\Debug\Tagger.exe
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\obj\Debug\Tagger.pdb
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\bin\Debug\Tagger.exe
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\bin\Debug\Tagger.pdb
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\bin\Debug\BongTagger.dll
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\bin\Debug\BongTagger.pdb
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\obj\Debug\Tagger.csprojResolveAssemblyReference.cache
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\bin\Debug\MoreLinq.dll
+F:\MSE\TextMining\Tagger\TaggerNew\Tagger\bin\Debug\MoreLinq.xml

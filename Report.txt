@@ -1,0 +1,15 @@
+Training Program with Brown sample (500 files):
+Total run time: 9s
+Training Set Info:
+Total tokens count: 1,161,192
+Total tags count: 472
+Total distinct words count: 56,057
+Total training sentences count: 57,340
+
+Test with training set by at word-level:
+Total run time: 899s ~ 15m
+Correction: 1133636/1161192 (97.627%)
+
+Test with training set by at sentence-level:
+Total run time: 906s ~ 15m
+Correction: 38460/57340(67.074%)

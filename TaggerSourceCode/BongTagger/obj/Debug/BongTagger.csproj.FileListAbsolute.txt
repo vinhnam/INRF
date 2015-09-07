@@ -1,0 +1,7 @@
+F:\MSE\TextMining\Tagger\TaggerNew\BongTagger\bin\Debug\BongTagger.dll
+F:\MSE\TextMining\Tagger\TaggerNew\BongTagger\bin\Debug\BongTagger.pdb
+F:\MSE\TextMining\Tagger\TaggerNew\BongTagger\bin\Debug\MoreLinq.dll
+F:\MSE\TextMining\Tagger\TaggerNew\BongTagger\bin\Debug\MoreLinq.xml
+F:\MSE\TextMining\Tagger\TaggerNew\BongTagger\obj\Debug\BongTagger.csprojResolveAssemblyReference.cache
+F:\MSE\TextMining\Tagger\TaggerNew\BongTagger\obj\Debug\BongTagger.dll
+F:\MSE\TextMining\Tagger\TaggerNew\BongTagger\obj\Debug\BongTagger.pdb

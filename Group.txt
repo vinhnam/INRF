@@ -1,0 +1,10 @@
+Group 1 Team Member:
+Tran Quang Thinh - thinhtqmse0006
+Nguyen Vinh Name - namnvmse0039
+Nguyen Hoang Anh - anhnhmse0040
+
+Work Assignment:
+We all both have to read about 2nd HMM and Viterbi Algorithm.
+After that, we created a shared project on Git so that everyone could view, check out/in and contribute into build tagger library.
+We also created an extra project (based on Window WPF to make it interactable).
+In total, we have 1 project for UI and 1 project as tagger library.
